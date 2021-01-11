@@ -6,4 +6,4 @@ categories: jekyll update
 
  Hi, I'm Jeongwoo.  
  It's my first github post. Can i use github page to useful?  
- Good Luck!
+ Good Luck!  
