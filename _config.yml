@@ -52,9 +52,9 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-remote_theme: samarsault/plainwhite-jekyll
+# remote_theme: samarsault/plainwhite-jekyll
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
