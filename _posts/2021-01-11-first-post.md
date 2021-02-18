@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Github-seo!"
 date: 2021-01-11
-categories: jekyll update
+categories: 
 ---
 
  Hi, I'm Jeongwoo.  
